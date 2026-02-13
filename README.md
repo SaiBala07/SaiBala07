@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+a+Data+Scientist;I+Love+AI+and+LLMs" alt="Typing SVG" />
+</div>
 <!--
 **SaiBala07/SaiBala07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
