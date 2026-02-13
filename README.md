@@ -7,6 +7,11 @@
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiBala07E&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+</div>
 <!--
 **SaiBala07/SaiBala07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
